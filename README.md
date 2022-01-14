@@ -1,0 +1,2 @@
+# nututil
+c util function
